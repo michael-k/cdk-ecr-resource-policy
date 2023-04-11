@@ -1,0 +1,7 @@
+---
+templates:
+  - cdk.out/*.template.json
+include_checks:
+  - I
+regions:
+  - eu-west-1
